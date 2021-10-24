@@ -1,2 +1,2 @@
 # OP-cmds
-so you in too go in env and creative and name it to TOKEN then i put your bot token value and change your prefix
+so you need to go in env and create caqllled Token and set value to ur bot toke and u can also change prefix u neeed to fidn where to change explore it
